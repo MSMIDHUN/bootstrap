@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Sofia&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#title{
+    background-color:#d955cc;
+    color: rgb(255, 255, 255);
+}
+img{
+    height:300px;
+}
+.container-fluid{
+    padding-top: 3%;
+}
+h1{
+ padding-left: 20px;
+}
+.row{
+    padding-left: 10%;
+}
+.navbar-brand{
+    padding-left: 10%;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+}
+ul{
+    padding-right: 10%;
+}
+a.nav-link{
+    color: white;
+}
+.btn-outline-light{
+    margin-top:20px;
+}
+.btn-outline-dark{
+    margin-top: 20px;
+}
+#feature{
+    padding-top: 7%;
+    padding-right: 15%;
+    padding-left: 8%;
+}
+.feature-box {
+    text-align: center;
+}
+.feature-box h3 {
+    font-family: 'Montserrat-Black';
+    font-weight: bold;
+}
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+.fa-regular:hover{
+    color:#d955cc;
+}
+.fa-solid:hover{
+    color:#d955cc;
+}
+h3{
+    color: white;
+    text-align:justify;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+#testimony{
+    background-color:#d955cc;
+}
+#testimony img{
+    width:20%;
+    border-radius: 100%;
+}
+#headingtext{
+    font-family: 'Montserrat-Black';
+    font-size:24px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+}
+#card{
+    margin-right: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#copyright{
+    text-align: center;
+}
+.py-5{
+    margin: 0%;
+    padding: 0%;
+    background-color:#d955cc;
+}
+.pythoncard{
+    height: 514px;
+}
+.copy{
+    text-align: center;
+}
+#newsletter1{
+    margin-right: 50px;
+}
+.fa-brands i.hover{
+
+    color:#d955cc;
+    background-color: aqua;
+
+}
+.carousel-item img{
+    width: 20%;
+}
